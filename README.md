@@ -12,6 +12,16 @@
 - ⚡ Fun fact: ** I also write some blog posts about my learning [here](https://resume.cmdevelop.com/#blog)
 <br>
 
+
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CharlieMansell&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="CharlieMansell's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieMansell&theme=transparent&count_private=true&border_radius=10&locale=en" alt="CharlieMansell's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlieMansell&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="CharlieMansell's Most Used Languages" />
+</div>
+
 <div align="center">
   <a href="charliemansellwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -23,16 +33,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CharlieMansell&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="CharlieMansell's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieMansell&theme=transparent&count_private=true&border_radius=10&locale=en" alt="CharlieMansell's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlieMansell&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="CharlieMansell's Most Used Languages" />
-</div>
-
-<hr>
 
 <hr>
 
