@@ -3,6 +3,7 @@
   <img src="https://profile-counter.glitch.me/CharlieMansell/count.svg" alt="Visitor's Count" />
 </div>
 
+<img src="https://github.com/CharlieMansell/CharlieMansell/blob/main/xp.jpg" alt="lovely hill side I found on my latest travels to Sonoma, Calif">
 <!--
 **CharlieMansell/CharlieMansell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
