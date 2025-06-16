@@ -8,6 +8,7 @@
 </h1>
 
 - 🌱 I’m currently learning **[Bicep & Terrform](https://learn.microsoft.com/en-us/azure/developer/terraform/comparing-terraform-and-bicep?tabs=comparing-bicep-terraform-integration-features)**
+- 🔭 I’m currently working on a new learning project, which will be to implement a honeypot in Azure & manipulate the logs within Sentinel, whilst using Azure CLI for the implementation. I'll be writing a blog post about this.  
 - 💬 Ask me about **Azure, M365, Graph API, M365 PowerShell SDK's, IaC. [here](https://github.com/CharlieMansell/CharlieMansell/issues)**
 - ⚡ Fun fact: ** I also write some blog posts about my learning [here](https://resume.cmdevelop.com/#blog)
 <br>
