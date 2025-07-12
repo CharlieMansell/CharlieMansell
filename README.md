@@ -1,8 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://cmdevgetresumecount.azurewebsites.net/api/GetResumeCount?" alt="Visitor's Count" />
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=008000&duration=4000&lines=Hi+There!+👋;+I'm+Charlie+Mansell!;" />
 </h1>
@@ -39,6 +34,7 @@
   <a href="https://www.linkedin.com/in/charliemansellprofile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=CharlieMansell" alt="Visitor's Count" />
 </div>
 <hr>
 
