@@ -34,7 +34,8 @@
   <a href="https://www.linkedin.com/in/charliemansellprofile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<img src="https://komarev.com/ghpvc/?username=CharlieMansell&for-the-badge" alt="Visitor's Count" />
+<img src="https://komarev.com/ghpvc/?username=CharlieMansell&for-the-badge">
+    ![](https://komarev.com/ghpvc/?username=CharlieMansell&base=1000&for-the-badge)
 </div>
 <hr>
 
