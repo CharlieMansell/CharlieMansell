@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=CharlieMansell" alt="Visitor's Count" />
+  <img src="https://cmdevgetresumecount.azurewebsites.net/api/GetResumeCount?" alt="Visitor's Count" />
 </div>
 
 <h1 align="center">
